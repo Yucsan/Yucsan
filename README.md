@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h1 align="center">Hola, soy Fernando Yucsan Chang Cam 👋</h1>
 <h2>✨ _special_ ✨ </h2>    
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<!--<img src="https://i.imgur.com/weNbhGZ.png"> -->
 
