@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1 align="center">✨✨ Angular Java Spring Boot Android Kotlin ✨✨</h1>
+<h1 align="center">✨✨ React Angular Typescript Java Spring Boot Android Kotlin ✨✨</h1>
 <!-- <h2>✨ _special_ ✨ </h2>  --> 
 </div>
 <img src="https://github.com/Yucsan/Yucsan/blob/main/portada.jpg?raw=true" >
