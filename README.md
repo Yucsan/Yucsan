@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <h1 align="center">Hola, soy Fernando Yucsan Chang Cam 👋</h1>
-<h2>✨ _special_ ✨ </h2>    
+<!-- <h2>✨ _special_ ✨ </h2>  --> 
 </div>
 <img src="https://github.com/Yucsan/Yucsan/blob/main/portada.jpg?raw=true" >
 
