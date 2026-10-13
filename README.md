@@ -28,9 +28,11 @@ Full-stack developer with 8+ years of experience in web, mobile and design, with
 - DBSCAN vs KMeans vs KMeans-RKHS: algorithm limitations on non-convex data
 
 **Development**
-- Mapgenda: complete Android app with backend (Kotlin + Java + Spring Boot)
+- Mapgenda: complete Android app with backend (Kotlin + Java + Spring Boot) · [Frontend](https://github.com/Yucsan/Android_Mapgenda) · [Backend](https://github.com/Yucsan/Mapgenda_Backend)
 - [Weather App (layered architecture)](https://github.com/Yucsan/Angular_tiempo_Almeria): Angular + Node.js/Express
 - [Weather App (Hexagonal Architecture)](https://github.com/Yucsan/Hexagonal-n1): migration to Ports & Adapters
+- [Diet App (Android)](https://github.com/Yucsan/android_dietas): nutritional modeling app built with Jetpack Compose, Room and Material 3; recursive food composition (recipes, menus, diets) with automatic calorie calculation
+- [Music Player (Android)](https://github.com/Yucsan/android_musica): Kotlin media player consuming the Jamendo REST API, with background playback service, playlists and Material Design 3
 
 ---
 
